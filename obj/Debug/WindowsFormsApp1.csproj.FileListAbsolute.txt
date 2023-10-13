@@ -8,3 +8,13 @@ C:\Users\charm\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.Genera
 C:\Users\charm\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\charm\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\charm\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\charm\Documents\GitHub\EAD_Assignment_3\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\charm\Documents\GitHub\EAD_Assignment_3\bin\Debug\WindowsFormsApp1.exe
+C:\Users\charm\Documents\GitHub\EAD_Assignment_3\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\charm\Documents\GitHub\EAD_Assignment_3\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\charm\Documents\GitHub\EAD_Assignment_3\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\charm\Documents\GitHub\EAD_Assignment_3\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\charm\Documents\GitHub\EAD_Assignment_3\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\charm\Documents\GitHub\EAD_Assignment_3\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\charm\Documents\GitHub\EAD_Assignment_3\obj\Debug\WindowsFormsApp1.exe
+C:\Users\charm\Documents\GitHub\EAD_Assignment_3\obj\Debug\WindowsFormsApp1.pdb
